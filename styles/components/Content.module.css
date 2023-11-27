@@ -1,0 +1,26 @@
+.SmallContent
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: center;
+
+    width: 60vw;
+    color: #FFF;
+}
+
+.Content
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+    width: 80vw;
+    color: #FFF;
+    margin: 0 auto;
+}

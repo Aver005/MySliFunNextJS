@@ -1,0 +1,24 @@
+.Artist
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 12vw;
+    height: 24vh;
+}
+
+.Artist img
+{
+    width: 18vh;
+    height: 18vh;
+    border-radius: 3vh;
+    object-fit: cover;
+}
+
+.Artist strong
+{
+    color: #6c6c6c;
+}

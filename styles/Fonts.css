@@ -1,0 +1,11 @@
+@font-face 
+{
+    font-family: 'Avenir Next Cyr';
+    src:  url('../public/fonts/avenirnextcyr-bold.eot');
+    src: local('Avenir Next Cyr Regular'), 
+        local('Avenir Next Cyr'), 
+        url('../public/fonts/avenirnextcyr-bold.eot#iefix') format('embedded-opentype'),
+        url('../public/fonts/avenirnextcyr-bold.ttf') format('truetype'),
+        url('../public/fonts/avenirnextcyr-bold.woff') format('woff'),
+        url('../public/fonts/avenirnextcyr-bold.svg#font') format('svg'); 
+}

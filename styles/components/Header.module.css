@@ -1,0 +1,42 @@
+.Header
+{
+    background: linear-gradient(180deg, 
+        rgba(255, 255, 255, 0.03) 68.82%, 
+        rgba(20, 20, 20, 0.00) 99.99%, 
+        rgba(0, 0, 0, 0.00) 100%
+    );
+
+    width: 100%;
+    height: 28vh;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.Header span
+{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 1.8vh;
+    font-style: normal;
+    font-weight: 750;
+    line-height: normal;
+}
+
+.Header h1
+{
+    color: #FFF;
+    font-size: 11vh;
+    font-style: normal;
+    font-weight: 750;
+    line-height: normal;
+    margin: 2vh 0 0;
+}
+
+.HeaderContainer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 56vw;
+}
